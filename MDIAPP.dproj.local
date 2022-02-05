@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/04 16:29:39.278.pas,C:\Users\Naike\Desktop\Projeto\Unit1.pas=C:\Users\Naike\Desktop\Projeto\uCadastroCliente.pas</Transaction>
+    <Transaction>2022/02/04 16:29:39.279.dfm,C:\Users\Naike\Desktop\Projeto\Unit1.dfm=C:\Users\Naike\Desktop\Projeto\uCadastroCliente.dfm</Transaction>
+    <Transaction>2022/02/04 16:57:43.149.pas,C:\Users\Naike\Desktop\Projeto\Unit1.pas=C:\Users\Naike\Desktop\Projeto\uBanco.pas</Transaction>
+    <Transaction>2022/02/04 16:57:43.149.dfm,C:\Users\Naike\Desktop\Projeto\Unit1.dfm=C:\Users\Naike\Desktop\Projeto\uBanco.dfm</Transaction>
+    <Transaction>2022/02/04 18:20:21.360.pas,C:\Users\Naike\Desktop\Projeto\Unit1.pas=C:\Users\Naike\Desktop\Projeto\uCadastroProduto.pas</Transaction>
+    <Transaction>2022/02/04 18:20:21.360.dfm,C:\Users\Naike\Desktop\Projeto\Unit1.dfm=C:\Users\Naike\Desktop\Projeto\uCadastroProduto.dfm</Transaction>
+    <Transaction>2022/02/04 18:48:08.917.pas,C:\Users\Naike\Desktop\Projeto\Unit1.pas=C:\Users\Naike\Desktop\Projeto\uPedido.pas</Transaction>
+    <Transaction>2022/02/04 18:48:08.917.dfm,C:\Users\Naike\Desktop\Projeto\Unit1.dfm=C:\Users\Naike\Desktop\Projeto\uPedido.dfm</Transaction>
+    <Transaction>2022/02/04 21:21:56.181.pas,C:\Users\Naike\Desktop\Projeto\Unit2.pas=C:\Users\Naike\Desktop\Projeto\uViaCep.pas</Transaction>
+    <Transaction>2022/02/04 22:11:20.455.pas,C:\Users\Naike\Desktop\Projeto\Unit1.pas=C:\Users\Naike\Desktop\Projeto\uPesquisaCliente.pas</Transaction>
+    <Transaction>2022/02/04 22:11:20.455.dfm,C:\Users\Naike\Desktop\Projeto\Unit1.dfm=C:\Users\Naike\Desktop\Projeto\uPesquisaCliente.dfm</Transaction>
+    <Transaction>2022/02/04 23:05:01.678.pas,C:\Users\Naike\Desktop\Projeto\Unit1.pas=C:\Users\Naike\Desktop\Projeto\uPesquisaProduto.pas</Transaction>
+    <Transaction>2022/02/04 23:05:01.678.dfm,C:\Users\Naike\Desktop\Projeto\Unit1.dfm=C:\Users\Naike\Desktop\Projeto\uPesquisaProduto.dfm</Transaction>
+    <Transaction>2022/02/05 00:09:40.799.pas,C:\Users\Naike\Desktop\Projeto\Unit1.pas=C:\Users\Naike\Desktop\Projeto\uPesquisaPedido.pas</Transaction>
+    <Transaction>2022/02/05 00:09:40.799.dfm,C:\Users\Naike\Desktop\Projeto\Unit1.dfm=C:\Users\Naike\Desktop\Projeto\uPesquisaPedido.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
